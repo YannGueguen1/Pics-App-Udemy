@@ -1,3 +1,6 @@
+## Pics Application
+Created following Udemy's course "Modern React with Redux"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
